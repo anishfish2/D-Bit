@@ -16,6 +16,9 @@ We utilized primarily Python, Numpy, Pandas, and Scikit-learn for the true proce
 <img src="Screen Shot 2022-11-13 at 11.55.35 AM.png" alt="Alt text" title="PCA Feature Space" width="500" height="300">
 <img src="Screen Shot 2022-11-13 at 11.55.43 AM.png" alt="Alt text" title="Efficiency KNN plot" width="500" height="300">
 <img src="Screen Shot 2022-11-13 at 2.00.22 PM.png" alt="Alt text" title="Created Features" width="500" height="200">
+<img src="Screen Shot 2022-11-13 at 3.37.11 PM.png" alt="Alt text" title="Created Features" width="500" height="200">
+<img src="Screen Shot 2022-11-13 at 3.37.23 PM.png" alt="Alt text" title="Created Features" width="500" height="200">
+
 ## Challenges we ran into
 One problem we faced was the numerous occurrences of bad data which we needed to clean. Most of our time went into creating features and doing routine data processing in order to create a strong foundation for our model. In addition, we faced the challenge of selecting a model in order to best fit the problem. While we could have used some sort of CNN and deep learning for the base of the project, we decided it would be much more efficient and cost-smart to utilize a simpler model such as a K-nearest neighbors algorithm.
 
